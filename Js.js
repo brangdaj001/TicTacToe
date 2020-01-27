@@ -72,3 +72,4 @@ let onOver = function(id){
 let onOut = function(id){
     id.style.backgroundColor ="white";
 };
+//append x & o image to each data //
